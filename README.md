@@ -79,17 +79,14 @@ Bootstrap 3 Media Queries - how it should be done!
 @media (min-width: 768px) {
 
 }
-
 /* === iPad: portrait only === */
 @media (min-width : 768px) and (max-width : 991px) {
 
 }
-
 /*=== desktop ===*/
 @media (min-width: 992px) {
 
 }
-
 /* 2nd break desktop */
 @media (min-width : 992px) and (max-width : 1199px) {
 
@@ -100,13 +97,7 @@ Bootstrap 3 Media Queries - how it should be done!
 @media (max-width: 991px) {
 
 }
-
 /*=== Smartphone (landscape+portrait) ===*/
 @media screen and (max-width:767px) {
 
 }
-
-
-
-
-
