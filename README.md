@@ -83,7 +83,7 @@ Bootstrap 3 Media Queries - how it should be done!
 @media (min-width : 768px) and (max-width : 991px) {
 
 }
-/*=== desktop ===*/
+/* === desktop === */
 @media (min-width: 992px) {
 
 }
@@ -91,13 +91,11 @@ Bootstrap 3 Media Queries - how it should be done!
 @media (min-width : 992px) and (max-width : 1199px) {
 
 }
-
-
-/* ===  Ipad and mobile  === */
+/* === Ipad and mobile === */
 @media (max-width: 991px) {
 
 }
-/*=== Smartphone (landscape+portrait) ===*/
+/*== Smartphone (landscape+portrait) ==*/
 @media screen and (max-width:767px) {
 
 }
